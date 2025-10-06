@@ -129,7 +129,7 @@ Autor: **Dr. Darío Ezequiel Díaz**
 
 ## 🧟‍♂️ Nota final
 
-Este material forma parte del Taller de Comunicación Financiera, enfocado en la integración de **herramientas de análisis de datos, visualización y comunicación estadística aplicada a las finanzas**.
+Este material forma parte del Taller de Comunicación Financiera, enfocado en la integración de **herramientas de análisis de datos, visualización y comunicación estadística aplicada a las finanzas y a la contabilidad**.
 Su objetivo es fomentar prácticas reproducibles y transparentes en la presentación de resultados financieros y económicos.
 
 ---
