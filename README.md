@@ -1,7 +1,7 @@
 # Taller-comunicacion-financiera
 Material del Taller de Comunicación Financiera orientado al uso de Python en el análisis de datos económicos y financieros. Incluye un cuaderno ejecutable en Google Colab, un script de Streamlit para visualizaciones interactivas, el enlace al lookerstudio y la presentación teórica en formato PDF.
 
-Este repositorio contiene los materiales de la **Clase 1 del Taller de Comunicación Financiera**, orientado al uso de **Python** en el análisis de datos financieros, la creación de dashboards interactivos y la comunicación visual de resultados económicos.
+Este repositorio contiene los materiales de la **Taller de Comunicación Financiera**, orientado al uso de **Python** en el análisis de datos financieros, la creación de dashboards interactivos y la comunicación visual de resultados económicos.
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DrDarioDiaz/Taller-comunicacion-financiera/blob/main/notebooks/Clase1_Python_Comunicacion.ipynb)
 
